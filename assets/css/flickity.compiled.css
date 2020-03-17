@@ -19,3 +19,7 @@
 .flickity--slider.arrows--white .flickity-prev-next-button svg * {
   fill: white;
 }
+
+.row.flickity--slider .flickity-slider > div {
+  min-height: 100%;
+}
